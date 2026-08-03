@@ -117,7 +117,7 @@ const partnersData = [
         link: [
             {
                 name: "GitHub",
-                link: "https://github.com/li958633",
+                link: "https://github.com/zhouchenya",
             },
             {
                 name: "Website",
