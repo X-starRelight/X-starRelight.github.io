@@ -1238,7 +1238,8 @@
                   class="link-btn"
                   @click="handleLinkClick(link.link, $event)"
                 >
-                  <span class="icon" v-html="getSocialIcon(link.name)"></span>
+                  <span v-if="('name' in link) && !('icon' in link)" class="icon" v-html="getSocialIcon(link.name)"></span>
+                  <span v-if="'icon' in link" class="icon" v-html="link.icon"></span>
                   <span class="link-text">{{ link.name }}</span>
                 </a>
               </div>
