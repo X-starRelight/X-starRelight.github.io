@@ -31,7 +31,14 @@ const projectsData = [
         icon: "https://images-sxxyrry.pages.dev/KossJS_Bigger.png",
         link: "/Products/kossjs.html",
     },
-    
+    {
+        id: 5,
+        name: "文档网站",
+        description: "由 TT23XR Studio 维护的文档网站，包含了工作室的产品文档、API 文档、教程等。",
+        tags: ["Docs", "Website", "Markdown", "API"],
+        icon: "https://images-sxxyrry.pages.dev/LOGO_Bigger.png",
+        link: "https://docss.sxxyrry.qzz.io/",
+    },
 ];
 
 const teamMembersData = [

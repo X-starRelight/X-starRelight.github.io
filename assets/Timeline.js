@@ -114,11 +114,29 @@ const TimeLine = [
         },
         'event': [
             '[TTP 格式规范](https://docss.sxxyrry.qzz.io/TTP/)正式发布',
-            '[TT23XR 工作室](https://tt23xr.sxxyrry.qzz.io/)与 [Vix 语言](https://vixlang.github.io/)及其母工作室[Xnors Studio 异或工作室](https://xnors.github.io/)达成合作',
+            '[TT23XR 工作室](https://tt23xr.sxxyrry.qzz.io/) 与 [Vix 语言](https://vixlang.github.io/)及其母工作室[Xnors Studio 异或工作室](https://xnors.github.io/)达成合作',
             '[Vihaiper 项目](https://vihaiper.sxxyrry.qzz.io/)上线（内部使用）',
             '[TaiLerDownloader 宣传片](https://www.bilibili.com/video/BV16KRYBfEbu/?share_source=copy_web&vd_source=930a4f5a7e1540dcb8611add22805e35)发布',
             '[KossJS 宣传片](https://www.bilibili.com/video/BV1oAdGBNEkt/?share_source=copy_web&vd_source=930a4f5a7e1540dcb8611add22805e35)发布',
             'KifeJS 项目立项',
+        ],
+    },
+    {
+        'time': {
+            'year': '2026',
+            'month': '9',
+        },
+        'event': [
+            '[TT23XR 工作室](https://tt23xr.sxxyrry.qzz.io/) 与 [HCMCL](https://adhc.johnnyblog.top/) 正式达成合作',
+        ],
+    },
+    {
+        'time': {
+            'year': '2026',
+            'month': '10',
+        },
+        'event': [
+            '[TT23XR 工作室](https://tt23xr.sxxyrry.qzz.io/) 与 [HCMCL](https://adhc.johnnyblog.top/) 因为观念不和，取消合作关系',
         ],
     },
 ]
